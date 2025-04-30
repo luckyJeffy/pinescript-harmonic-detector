@@ -1,0 +1,11 @@
+# OS specific files
+.DS_Store
+# Editor specific files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*~
+
+# Cursor specific
+.cursor/
